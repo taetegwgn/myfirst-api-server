@@ -54,3 +54,5 @@ kubectl apply -f k8s/service.yaml
 Poll SCM 실습 확인: Jenkins 자동 빌드 테스트
 
 Poll SCM 실습 확인: Jenkins 자동 빌드 테스트
+
+Argo CD 자동 배포 실습 확인
